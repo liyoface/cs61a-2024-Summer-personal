@@ -1,0 +1,5 @@
+'flatten-correct', (0, 70)
+'merge-correct', (512, 70)
+'size_of_tree-correct', (1024, 70)
+'replace_loki_at_leaf-correct', (1536, 70)
+'divide-correct', (2048, 70)

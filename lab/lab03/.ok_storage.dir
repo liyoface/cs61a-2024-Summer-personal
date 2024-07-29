@@ -1,0 +1,5 @@
+'double_eights-correct', (0, 70)
+'make_onion-correct', (512, 70)
+'mario_number-correct', (1024, 70)
+'max_subseq-correct', (1536, 70)
+'is_prime-correct', (2048, 70)

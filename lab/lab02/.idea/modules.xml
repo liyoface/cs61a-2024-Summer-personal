@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cats/.idea/cats.iml" filepath="$PROJECT_DIR$/../cats/.idea/cats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dics03/.idea/dics03.iml" filepath="$PROJECT_DIR$/../dics03/.idea/dics03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../disc04/.idea/disc04.iml" filepath="$PROJECT_DIR$/../disc04/.idea/disc04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hw02/.idea/hw02.iml" filepath="$PROJECT_DIR$/../hw02/.idea/hw02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hw03/.idea/hw03.iml" filepath="$PROJECT_DIR$/../hw03/.idea/hw03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lab02.iml" filepath="$PROJECT_DIR$/.idea/lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab03/.idea/lab03.iml" filepath="$PROJECT_DIR$/../lab03/.idea/lab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab04/.idea/lab04.iml" filepath="$PROJECT_DIR$/../lab04/.idea/lab04.iml" />
+    </modules>
+  </component>
+</project>
