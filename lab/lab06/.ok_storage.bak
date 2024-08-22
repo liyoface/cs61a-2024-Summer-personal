@@ -1,0 +1,5 @@
+'count_occurrences-correct', (0, 70)
+'hailstone-correct', (512, 70)
+'merge-correct', (1024, 70)
+'deep_map-correct', (1536, 70)
+'buy-correct', (2048, 70)

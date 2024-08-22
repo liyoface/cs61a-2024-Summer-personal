@@ -1,0 +1,7 @@
+'pow-correct', (0, 70)
+'repeatedly-cube-correct', (512, 70)
+'cadr-caddr-correct', (1024, 70)
+'ascending?-correct', (1536, 70)
+'my-filter-correct', (2048, 70)
+'no-repeats-correct', (2560, 70)
+'longest-increasing-subsequence-correct', (3072, 70)

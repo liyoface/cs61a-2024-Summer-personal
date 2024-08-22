@@ -1,0 +1,6 @@
+'hailstone-correct', (0, 70)
+'merge-correct', (512, 70)
+'perms-correct', (1024, 70)
+'yield_paths-correct', (1536, 70)
+'Minty-correct', (2048, 70)
+'VendingMachine-correct', (2560, 70)
