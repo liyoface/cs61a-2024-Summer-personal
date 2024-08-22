@@ -1,6 +1,6 @@
-心得分享：  
+# 心得分享：  
 
-1.作业  
+## 1. 作业  
 
 1.1 除了project,其他的lab,discussion和homework都是有solution可以参考的。所以写完了可以参考solution再进一步地修改。  
 
